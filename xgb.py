@@ -1,5 +1,4 @@
 from sklearn.model_selection import train_test_split
-from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import RandomizedSearchCV
 from scipy.stats import uniform
 from sklearn.metrics import mean_squared_error
